@@ -1,0 +1,97 @@
+{
+  "getBoardList": [
+    {
+      "title": "开放产品",
+      "description": "开放产品是一款开放产品",
+      "saleout": false
+    },
+    {
+      "title": "品牌营销",
+      "description": "品牌营销帮助你的产品更好地找到定位",
+      "saleout": false
+    },
+    {
+      "title": "使命必达",
+      "description": "使命必达快速迭代永远保持最前端的速度",
+      "saleout": true
+    },
+    {
+      "title": "勇攀高峰",
+      "description": "帮你勇闯高峰，到达事业的顶峰",
+      "saleout": true
+    }
+  ],
+  "getNewsList": [
+    {
+      "id": 1,
+      "title": "新闻条目1新闻条目1新闻条目1新闻条目1",
+      "url": "http://starcraft.com",
+      "hot": true
+
+    },
+    {
+      "id": 2,
+      "title": "新闻条目2新闻条目2新闻条目2新闻条目2",
+      "url": "http://warcraft.com"
+    },
+    {
+      "id": 3,
+      "title": "新闻条3新闻条3新闻条3",
+      "url": "http://overwatch.com"
+    },
+    {
+      "id": 4,
+      "title": "新闻条4广告发布",
+      "url": "http://hearstone.com"
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    }
+  ],
+  "login": {
+    "username": "@wxq123",
+    "userId": "123123",
+     "erro":"登陆失败"
+  },
+  "getPrice": {
+    "amount": 750
+  },
+  "createOrder": {
+    "orderId":"djk8972"
+  },
+  "getOrderList": {
+    "list": [
+      {
+        "orderId": "ddj123",
+        "product": "数据统计",
+        "version": "高级版",
+        "time": "半年",
+        "buyNum": 2,
+        "date": "2018-10-10",
+        "amount": "500元"
+      },
+      {
+        "orderId": "yuj583",
+        "product": "流量分析",
+        "version": "户外版",
+        "time": "三个月",
+        "buyNum": 1,
+        "date": "2019-8-2",
+        "amount": "2200元"
+      },
+      {
+        "orderId": "pmd201",
+        "product": "广告发布",
+        "version": "商铺版",
+        "time": "1年",
+        "buyNum": 12,
+        "date": "2019-8-3",
+        "amount": "7890元"
+      }
+    ]
+  }
+  
+}
